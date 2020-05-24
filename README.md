@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Install [Node.js version 10 or greater] (https://nodejs.org/en/download/)
 2. Clone this repository:
 ```
-git clone https://github.com/SwapnilRSharma/task-manager-api.git
+git clone https://github.com/SwapnilRSharma/crud-api.git
 ```
 
 ### How to run a sample
@@ -38,4 +38,25 @@ npm run start
 
 ```
 POST /users
+```
+2. Read user
+
+```
+GET /users/:id
+```
+
+3. Read Users
+
+```
+GET /users
+```
+4. Update user
+
+```
+PATCH /users/:id
+```
+5. Delete user
+
+```
+DELETE /users/:id
 ```
