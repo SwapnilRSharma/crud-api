@@ -13,11 +13,11 @@ git clone https://github.com/SwapnilRSharma/crud-api.git
 
 ### How to run a sample
 
-1. Change directory to one of the sample folders, e.g. task-manager-api:
+1. Change directory to one of the sample folders, e.g. crud-api:
 
 
 ```
-cd task-manager-api/
+cd crud-api/
 ```
 
 2. Install the dependencies :
